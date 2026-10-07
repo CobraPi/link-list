@@ -109,6 +109,8 @@ Record Gifs: [https://www.cockos.com/licecap/](https://www.cockos.com/licecap/)
 
 Remove background from image: [https://www.remove.bg/](https://www.remove.bg/)
 
+Free browser tools (PDF, converters, calculators): [https://practicalwebtools.com/](https://practicalwebtools.com/)
+
 Icon creator: [https://gauger.io/fonticon/](https://gauger.io/fonticon/)
 
 Diagrams: [https://www.draw.io/](https://www.draw.io/)
